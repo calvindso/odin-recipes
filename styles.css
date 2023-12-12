@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(28, 5, 82);
+}
+
+h2 {
+    color: rgb(10, 85, 99);
+}
+
+ol, ul {
+    font-size: 22px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+#back-link {
+    font-size: 24px;
+    color: rgb(4, 63, 63);
+}
